@@ -5,6 +5,7 @@
 <body>
 <script>
   document.cookie = "session=user/browser/location";  
+  document.cookie = "favorite_task=collect Data"
   function alertCookie() { 
   alert(document.cookie); 
   } 
