@@ -1,6 +1,6 @@
-## Facultatea de Electronică, Telecomunicații și Tehnologia Informației
-
 # Privacy policy
+
+### Facultatea de Electronică, Telecomunicații și Tehnologia Informației
 
 <body>
 <script>
