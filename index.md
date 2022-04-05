@@ -9,7 +9,6 @@
   } 
   </script> 
   <button onclick="alertCookie()">Show cookies</button> 
-  <button onclick="showCookies()">Show cookies</button>
 </body>
 
 ##
